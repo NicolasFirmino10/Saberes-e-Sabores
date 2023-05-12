@@ -20,7 +20,7 @@
   
   <style scoped>
   *{
-    max-width: 100px;
-      margin: 0 auto;
+    max-width: 70px;
+      margin: 0 10px;
   }
   </style>

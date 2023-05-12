@@ -36,16 +36,16 @@ export default {
   height: 12px;
 }
 ::-webkit-scrollbar-track {
-  background-color: #f5f5f5;
+  background-color: #4b3f0f;
   border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb {
-  background-color: #004657;
+  background-color: #b4740e;
   border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background-color: #1bd63a;
+  background-color: #ee8738;
 }
 ::-webkit-scrollbar-thumb {
   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
