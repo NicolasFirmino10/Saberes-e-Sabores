@@ -1,7 +1,7 @@
 <template>
     <div >
       <div id="img">
-      <img src="/img/LOGO.png" alt="">
+      <img src="/img/logo saberes e sabores.jpg" alt="">
     </div>
     </div>
   </template>
