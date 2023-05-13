@@ -44,6 +44,10 @@ export default{
     methods: {
   scrollToTop() {
     this.$router.push('/Locavorismo');
+    window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+      });
     }
   } 
 }

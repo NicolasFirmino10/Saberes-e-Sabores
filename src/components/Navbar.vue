@@ -3,10 +3,10 @@
 <div>
   <nav>
     <router-link to="/" class="nav-item" id="imagem"><Icone /></router-link>
-      <div class="nav-list">
+      <div class="nav-list" @click="scrollToTop()">
       <router-link to="/" class="nav-item">Home</router-link>
       <router-link to="/locavorismo" class="nav-item">Locavorismo</router-link>
-      <router-link to="/contact" class="nav-item"> Produtores </router-link>
+      <router-link to="/Produtores" class="nav-item"> Produtores </router-link>
       <router-link to="/contact" class="nav-item">Potencial turístico</router-link>
       </div>
   </nav>
@@ -19,7 +19,16 @@ export default {
   name: 'Navbar',
   components:{
     Icone
+  },
+  methods: {
+  scrollToTop() {
+    window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+      });
+    }
   }
+  
 }
 </script>
 
