@@ -4,10 +4,14 @@
   <nav>
     <router-link to="/" class="nav-item" id="imagem"><Icone /></router-link>
       <div class="nav-list" @click="scrollToTop()">
-      <router-link to="/" class="nav-item">Home</router-link>
-      <router-link to="/locavorismo" class="nav-item">Locavorismo</router-link>
-      <router-link to="/Produtores" class="nav-item"> Produtores </router-link>
-      <router-link to="/contact" class="nav-item">Potencial turístico</router-link>
+
+          <router-link to="/" class="nav-item">Home</router-link>
+          <router-link to="/locavorismo" class="nav-item">Locavorismo</router-link>
+        
+        
+          <router-link to="/Produtores" class="nav-item"> Produtores </router-link>
+          <router-link to="/contact" class="nav-item">Potencial turístico</router-link>  
+        
       </div>
   </nav>
 </div>
@@ -31,6 +35,7 @@ export default {
   
 }
 </script>
+
 
 <style>
 nav {
@@ -76,7 +81,7 @@ nav {
   transform: scale(1.1);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   nav {
     flex-direction: row;
     align-items: stretch;
@@ -84,18 +89,21 @@ nav {
     position: relative;
   }
   #imagem{
-    margin-top: 50px;
+    margin-right: 10px;
+    margin-left: -20px;
   }
 
   .nav-list {
-    margin-top: 20px;
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    margin-top: -10px;
+    margin-left: 50px;
+   justify-content: flex-start;
+   align-items:start;
+   flex-wrap:wrap;
   }
-
+ 
   .nav-item {
-    margin: 0 0 10px 0;
+    margin: 0 0px 10px 0;
   }
 }
 </style>
