@@ -127,7 +127,7 @@ font-size: 33px;
 font-size: 32px;
 width: 700px;
 margin-top: 150px ;
-margin-left: 400px;
+margin-left: 350px;
 display: flex;
 text-align: unset;
 }

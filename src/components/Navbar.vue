@@ -10,7 +10,7 @@
         
         
           <router-link to="/Produtores" class="nav-item"> Produtores </router-link>
-          <router-link to="/contact" class="nav-item">Potencial turístico</router-link>  
+          <router-link to="/contact" class="nav-item">Rota turística</router-link>  
         
       </div>
   </nav>
