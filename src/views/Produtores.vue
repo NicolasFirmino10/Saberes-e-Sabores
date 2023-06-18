@@ -16,7 +16,8 @@
       <img class="imagem-agripino-2" src="/img/Produtores/agripino2.png" alt=""> 
       </div>
       <div class="text-agripino-3">
-      <p>Segundo ele, o Reisado surgiu na região há cerca de 100 anos, em 1923, e essa cultura nordestina é uma tradição ininterrupta em sua família há três gerações. Ele teme que após a sua morte não haja quem o conduza adiante, pois não percebe o entusiasmo dos jovens em participar de tais comemorações.
+      <p>Segundo ele, o Reisado surgiu na região há cerca de 100 anos, em 1923, e essa cultura nordestina é uma tradição ininterrupta em sua família há três gerações. Ele teme que após a sua morte não haja quem o conduza adiante, pois não percebe o entusiasmo dos jovens em participar de tais comemorações. <br>
+        Contato: (85) 9809-7338
       </p>
       </div>
     </div>
@@ -38,7 +39,8 @@
       </div>
       <img class="imagem-marta-3" src="/img/Produtores/Marta3.png" alt="">
       <div class="text-marta-3">
-      <p>Apesar da idade avançada, Dona Marta recusa-se a recusar encomendas e consegue produzir até 600 peças em um mês.
+      <p>Apesar da idade avançada, Dona Marta recusa-se a recusar encomendas e consegue produzir até 600 peças em um mês. <br>
+        Contato: (85) 8543-3423
       </p>
       </div>
     </div>
@@ -57,7 +59,8 @@
       </div>
       <img class="imagem-socorro-3" src="/img/Produtores/socorro3.png" alt="">
       <div class="text-socorro-3">
-      <p>Socorro Xavier expressou sua vontade de repetir essa prática e receber visitantes em sua casa, ao mesmo tempo em que motiva outros membros de sua comunidade a fazerem o mesmo e desfrutarem dessa experiência.
+      <p>Socorro Xavier expressou sua vontade de repetir essa prática e receber visitantes em sua casa, ao mesmo tempo em que motiva outros membros de sua comunidade a fazerem o mesmo e desfrutarem dessa experiência. <br>
+        Contato: (85) 81755-448
       </p>
       </div>
 
@@ -95,7 +98,8 @@
       </div>
       <img class="imagem-inacio-3" src="/img/Produtores/inacio3.png" alt="">
       <div class="text-inacio-3">
-      <p> Ele gosta genuinamente de seu trabalho e planeja continuar enquanto for viável para sua saúde.
+      <p> Ele gosta genuinamente de seu trabalho e planeja continuar enquanto for viável para sua saúde. <br>
+        Contato: (85) 9956-4102
       </p>
       </div>
     </div>
@@ -117,11 +121,143 @@ Atualmente, ela se concentra principalmente no processamento de café e cana-de-
       </div>
       <img class="imagem-tayane-3" src="/img/Produtores/tayane3.png" alt="">
       <div class="text-tayane-3">
-      <p> Seu processamento de café inclui torrefação, moagem e embalagem do renomado café Gameleira. E da cana faz a rapadura, melaço, garapa e o açúcar mascavo.
+      <p> Seu processamento de café inclui torrefação, moagem e embalagem do renomado café Gameleira. E da cana faz a rapadura, melaço, garapa e o açúcar mascavo. <br>
+        Contato: (85) 8695-5167
+      </p>
+      </div>
+    </div>
+    </div> 
+    
+    <div class="text-Nilsinho">  
+       <img class="imagem-nilsinho" src="/img/Produtores/Nilsinho.jpg" alt="">
+     <div class="text-nilsinho-1">
+      <p>O produtor Nilson Tavares, mais conhecido como Nilssinho, é especializado em diversos produtos.
+      </p>
+      <img class="imagem-nilsinho-1" src="/img/Produtores/inacio1.png" alt="">
+      </div>
+      <div class="text-nilsinho-2">
+      <p> Incluem-se em suas ofertas café, bebidas alcoólicas com sabor de frutas e produtos derivados da banana.
+      </p>
+      <img class="imagem-nilsinho-2" src="/img/Produtores/inacio2.png" alt="">
+      </div>
+      <img class="imagem-nilsinho-3" src="/img/Produtores/inacio3.png" alt="">
+      <div class="text-nilsinho-3">
+      <p> Contato: (85) 9184-3785 <br>
+Instagram: @nativaserrana
+      </p>
+      </div>
+    </div>
+    
+    <div class="text-Padua">  
+       <img class="imagem-padua" src="/img/Produtores/Padua.jpg" alt="">
+     <div class="text-padua-1">
+      <p>Realizamos uma entrevista com o Mestre da cultura do município de Baturité, Pádua de Queiroz. A conversa abraçou vários assuntos, incluindo temas históricos, culturais e educacionais.
+Em entrevista ao Mestre da Cultura, ele fala sobre a vida de um artista. Pádua compartilha que quem vive da arte tem um estilo de vida único. Eles devem constantemente criar e refinar seu ofício enquanto também ganham a vida com isso.
+      </p>
+      <img class="imagem-padua-1" src="/img/Produtores/inacio1.png" alt="">
+      </div>
+      <div class="text-padua-2">
+      <p> Essa pode ser uma tarefa desafiadora, pois a renda da arte costuma ser imprevisível. No entanto, Pádua enfatiza que, para quem é apaixonado por sua arte, as recompensas superam os desafios. Viver uma vida dedicada à arte pode ser gratificante, pois permite a expressão da criatividade, imaginação de alguém e o compartilhamento dessa expressão com outras pessoas.
+
+      </p>
+      <img class="imagem-padua-2" src="/img/Produtores/inacio2.png" alt="">
+      </div>
+      <img class="imagem-padua-3" src="/img/Produtores/inacio3.png" alt="">
+      <div class="text-padua-3">
+      <p> "Não dá para viver de arte, porque ninguém quer pagar, e não sei porque pagam os de fora, mas não pagam os artistas locais, mas aí eu digo, viva a arte ao invés de viver de arte, e foi com essa ideia que continuo fazendo arte e sou feliz [...]" <br>
+
+      Contato: (85) 8792-4575 <br>
+      Instagram: @padua.dequeiroz
       </p>
       </div>
     </div>
 
+
+    <div class="text-Cicero">  
+       <img class="imagem-cicero" src="/img/Produtores/Cicero.jpg" alt="">
+     <div class="text-cicero-1">
+      <p>Antônio Marques da Silva (seu Cícero) é sanfoneiro dos bons e um artista nato. Fomos ao seu encontro em sua casa no dia primeiro de maio e ouvimos um pouco de sua trajetória e arte.
+      </p>
+      <img class="imagem-cicero-1" src="/img/Produtores/inacio1.png" alt="">
+      </div>
+      <div class="text-cicero-2">
+      <p>  Começou com a sanfona quando tinha apenas doze anos e não a largou mais até que a idade se tornasse empecilho para a prática da música. 
+      </p>
+      <img class="imagem-cicero-2" src="/img/Produtores/inacio2.png" alt="">
+      </div>
+      <img class="imagem-cicero-3" src="/img/Produtores/inacio3.png" alt="">
+      <div class="text-cicero-3">
+      <p> Hoje, com 84 anos conta suas aventuras na vida musical e enfatiza o problema da desvalorização dos artistas locais, mostrou também um pouco de sua musicalidade (inclusive autoral).
+      </p>
+      </div>
+    </div>
+
+
+    <div class="text-Paulo">  
+       <img class="imagem-paulo" src="/img/Produtores/Paulo.jpg" alt="">
+     <div class="text-paulo-1">
+      <p>Paulo do mel trabalha com mais de seis tipos diferentes de abelha e pode ser encontrado vendendo seus produtos em frente ao Mosteiro dos Jesuítas no município de Baturité-Ce.
+
+      </p>
+      <img class="imagem-paulo-1" src="/img/Produtores/inacio1.png" alt="">
+      </div>
+      <div class="text-paulo-2">
+      <p> 
+      </p>
+      <img class="imagem-paulo-2" src="/img/Produtores/inacio2.png" alt="">
+      </div>
+      <img class="imagem-paulo-3" src="/img/Produtores/inacio3.png" alt="">
+      <div class="text-paulo-3">
+      <p> Contato: (85) 9402-6059
+      </p>
+      </div>
+    </div>
+
+
+    <div class="text-Silvanar">  
+       <img class="imagem-silvanar" src="/img/Produtores/Silvanar.jpg" alt="">
+     <div class="text-silvanar-1">
+      <p>Silvanar Soares Pereira, radialista, agricultor familiar, ativista cultural e produtor da Cajuína São João. Começou no ramo da agricultura quando ainda criança e se encantou pela cajuína, que descobriu em 1989 durante um encontro de jovens da Arquidiocese de Fortaleza em Redenção.
+      </p>
+      <img class="imagem-silvanar-1" src="/img/Produtores/inacio1.png" alt="">
+      </div>
+      <div class="text-silvanar-2">
+      <p>A partir desse momento, passou a comprá-la sempre que podia. Como presidente da Associação de Desenvolvimento Comunitário da Lagoa de São João, comunidade de Aracoiaba, ele conseguiu um curso sobre o aproveitamento do caju na alimentação humana, no ano de 2005. Foi no curso que ele aprendeu a fazer cajuína.
+      </p>
+      <img class="imagem-silvanar-2" src="/img/Produtores/inacio2.png" alt="">
+      </div>
+      <img class="imagem-silvanar-3" src="/img/Produtores/inacio3.png" alt="">
+      <div class="text-silvanar-3">
+      <p> Em 2018, na festa de 100 anos de seu pai, Chico Soares, ofereceu um coquetel de cajuína com beiju e percebeu o potencial de comercialização do produto. Essa situação levou à criação da Cajuína São João. <br>
+
+      Contato: (85) 99694-6224 <br>
+      Instagram: @cajuinasaojoao
+      </p>
+      </div>
+    </div>
+
+
+
+    <div class="text-Valdemar">  
+       <img class="imagem-valdemar" src="/img/Produtores/Valdemar.jpg" alt="">
+     <div class="text-valdemar-1">
+      <p>Considerado autodidata, Valdemar de Souza é artesão especializado na arte da palhinha indiana há quase quatro décadas, tendo aprendido por conta própria.
+Durante uma de suas visitas à casa de um padre, ele tentou usar a palha pela primeira vez, pois tinha uma cadeira velha que precisava de conserto. 
+
+      </p>
+      <img class="imagem-valdemar-1" src="/img/Produtores/inacio1.png" alt="">
+      </div>
+      <div class="text-valdemar-2">
+      <p> Na juventude, era conhecido como um indivíduo "polivalente" que sustentava a família exercendo diversos ofícios, incluindo agricultura, eletricidade, alvenaria, frentista de posto de gasolina e outras profissões.
+
+      </p>
+      <img class="imagem-valdemar-2" src="/img/Produtores/inacio2.png" alt="">
+      </div>
+      <img class="imagem-valdemar-3" src="/img/Produtores/inacio3.png" alt="">
+      <div class="text-valdemar-3">
+      <p> Atualmente aos 84 anos, continua a restaurar e construir estruturas de palhinha como forma de se manter ocupado e divulgar sua arte.
+      </p>
+      </div>
     </div>
   </div>
 </template>
@@ -144,7 +280,7 @@ export default{
   overflow-x: hidden;
   margin-top: 70px;
   background-color: #ffa600;
-  height: 1450vh;
+  height: 2950vh;
   background-repeat: no-repeat;
   background-size: cover;
   display: block;
@@ -379,6 +515,259 @@ export default{
     text-align: unset;
   }
  
+
+
+  .imagem-nilsinho {
+    width: 800px;
+    margin-top: 80px;
+  }
+  .imagem-nilsinho-1 {
+    width: 500px;
+    margin-top: -800px;
+    margin-left: 800px;
+  }
+  .imagem-nilsinho-2{
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 450px;
+    width: 500px;
+  }
+  .imagem-nilsinho-3{
+    position: relative;
+    margin-left: -50px;
+    margin-top: -50px;
+    width: 600px;
+  }
+  .text-nilsinho-1{
+    width: 500px;
+    margin: 90px 100px;
+    font-size: 34px;
+  }
+  
+  .text-nilsinho-2 {
+    width: 700px;
+    margin: 90px 50px;
+    font-size: 32px;
+  }
+  .text-nilsinho-3{
+    width: 800px;
+    margin-left: 350px;
+    margin-top: 50px;
+    font-size: 32px;
+    text-align: unset;
+  }
+
+
+
+
+  .imagem-padua {
+    width: 800px;
+    margin-top: 80px;
+  }
+  .imagem-padua-1 {
+    width: 500px;
+    margin-top: -800px;
+    margin-left: 800px;
+  }
+  .imagem-padua-2{
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 450px;
+    width: 500px;
+  }
+  .imagem-padua-3{
+    position: relative;
+    margin-left: -50px;
+    margin-top: -50px;
+    width: 600px;
+  }
+  .text-padua-1{
+    width: 700px;
+    margin: 90px 100px;
+    font-size: 34px;
+  }
+  
+  .text-padua-2 {
+    width: 700px;
+    margin: 90px 50px;
+    font-size: 32px;
+  }
+  .text-padua-3{
+    width: 800px;
+    margin-left: 350px;
+    margin-top: 50px;
+    font-size: 32px;
+    text-align: unset;
+  }
+
+
+
+  .imagem-cicero {
+    width: 800px;
+    margin-top: 80px;
+  }
+  .imagem-cicero-1 {
+    width: 500px;
+    margin-top: -800px;
+    margin-left: 800px;
+  }
+  .imagem-cicero-2{
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 450px;
+    width: 500px;
+  }
+  .imagem-cicero-3{
+    position: relative;
+    margin-left: -50px;
+    margin-top: -50px;
+    width: 600px;
+  }
+  .text-cicero-1{
+    width: 500px;
+    margin: 90px 100px;
+    font-size: 34px;
+  }
+  
+  .text-cicero-2 {
+    width: 700px;
+    margin: 90px 50px;
+    font-size: 32px;
+  }
+  .text-cicero-3{
+    width: 800px;
+    margin-left: 350px;
+    margin-top: 50px;
+    font-size: 32px;
+    text-align: unset;
+  }
+
+
+
+  .imagem-paulo {
+    width: 800px;
+    margin-top: 80px;
+  }
+  .imagem-paulo-1 {
+    width: 500px;
+    margin-top: -800px;
+    margin-left: 800px;
+  }
+  .imagem-paulo-2{
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 450px;
+    width: 500px;
+  }
+  .imagem-paulo-3{
+    position: relative;
+    margin-left: -50px;
+    margin-top: -50px;
+    width: 600px;
+  }
+  .text-paulo-1{
+    width: 500px;
+    margin: 90px 100px;
+    font-size: 34px;
+  }
+  
+  .text-paulo-2 {
+    width: 700px;
+    margin: 90px 50px;
+    font-size: 32px;
+  }
+  .text-paulo-3{
+    width: 800px;
+    margin-left: 350px;
+    margin-top: 50px;
+    font-size: 32px;
+    text-align: unset;
+  }
+
+
+
+
+  .imagem-silvanar {
+    width: 800px;
+    margin-top: 80px;
+  }
+  .imagem-silvanar-1 {
+    width: 500px;
+    margin-top: -800px;
+    margin-left: 800px;
+  }
+  .imagem-silvanar-2{
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 450px;
+    width: 500px;
+  }
+  .imagem-silvanar-3{
+    position: relative;
+    margin-left: -50px;
+    margin-top: -50px;
+    width: 600px;
+  }
+  .text-silvanar-1{
+    width: 500px;
+    margin: 90px 100px;
+    font-size: 34px;
+  }
+  
+  .text-silvanar-2 {
+    width: 700px;
+    margin: 90px 50px;
+    font-size: 32px;
+  }
+  .text-silvanar-3{
+    width: 800px;
+    margin-left: 350px;
+    margin-top: 50px;
+    font-size: 32px;
+    text-align: unset;
+  }
+
+
+
+  .imagem-valdemar {
+    width: 800px;
+    margin-top: 80px;
+  }
+  .imagem-valdemar-1 {
+    width: 500px;
+    margin-top: -800px;
+    margin-left: 800px;
+  }
+  .imagem-valdemar-2{
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 450px;
+    width: 500px;
+  }
+  .imagem-valdemar-3{
+    position: relative;
+    margin-left: -50px;
+    margin-top: -50px;
+    width: 600px;
+  }
+  .text-valdemar-1{
+    width: 700px;
+    margin: 90px 100px;
+    font-size: 34px;
+  }
+  
+  .text-valdemar-2 {
+    width: 700px;
+    margin: 90px 50px;
+    font-size: 32px;
+  }
+  .text-valdemar-3{
+    width: 800px;
+    margin-left: 350px;
+    margin-top: 50px;
+    font-size: 32px;
+    text-align: unset;
+  }
 }
 
 /* Regras de estilo para telas menores que 600px */
@@ -393,7 +782,7 @@ export default{
 }
 .home {
   background-color: #ffa600;
-  height: 1720vh;
+  height: 3420vh;
   background-repeat: no-repeat;
   background-size: cover;
   display: block;
@@ -713,6 +1102,329 @@ export default{
   text-align: justify;
 }
 .text-tayane-3 { 
+   width:350px;
+  position: relative;
+  font-size: 23px;
+  display: flex; 
+   margin: 15px;
+  justify-content: space-between;
+  text-align: justify;
+}
+
+
+
+.imagem-nilsinho {
+    width: 350px;
+    margin-top: 100px;
+  }
+.imagem-nilsinho-1{
+    position: relative;
+    margin-top: 300px;
+    margin-left: -400px;
+  }
+.imagem-nilsinho-2{
+  width: 350px;
+  margin-top: 250px;
+    margin-left: -400px;
+}
+.imagem-nilsinho-3{
+  width: 350px;
+  margin-top: 50px;
+}
+.text-Nilsinho {
+  font-size: 50px;
+  font-family: 'Century Gothic';
+}
+.text-nilsinho-1 {
+  width:365px;
+  position: relative;
+  font-size: 23px;
+  display: flex;
+  text-align: left;
+  margin-top: 80px;
+  margin-left: 15px;
+}
+.text-nilsinho-2 {
+  width:350px;
+  position: relative;
+  font-size: 23px;
+  display: flex;
+  margin-top: 80px;
+  margin-left: 15px;
+  justify-content: space-between;
+  text-align: justify;
+}
+.text-nilsinho-3 { 
+   width:350px;
+  position: relative;
+  font-size: 23px;
+  display: flex; 
+   margin: 15px;
+  justify-content: space-between;
+  text-align: justify;
+}
+
+
+
+
+.imagem-padua {
+    width: 350px;
+    margin-top: 100px;
+  }
+.imagem-padua-1{
+    position: relative;
+    margin-top: 300px;
+    margin-left: -400px;
+  }
+.imagem-padua-2{
+  width: 350px;
+  margin-top: 250px;
+    margin-left: -400px;
+}
+.imagem-padua-3{
+  width: 350px;
+  margin-top: 50px;
+}
+.text-Padua {
+  font-size: 50px;
+  font-family: 'Century Gothic';
+}
+.text-padua-1 {
+  width:365px;
+  position: relative;
+  font-size: 23px;
+  display: flex;
+  text-align: left;
+  margin-top: 80px;
+  margin-left: 15px;
+}
+.text-padua-2 {
+  width:350px;
+  position: relative;
+  font-size: 23px;
+  display: flex;
+  margin-top: 80px;
+  margin-left: 15px;
+  justify-content: space-between;
+  text-align: justify;
+}
+.text-padua-3 { 
+   width:350px;
+  position: relative;
+  font-size: 23px;
+  display: flex; 
+   margin: 15px;
+  justify-content: space-between;
+  text-align: justify;
+}
+
+
+
+
+.imagem-cicero {
+    width: 350px;
+    margin-top: 100px;
+  }
+.imagem-cicero-1{
+    position: relative;
+    margin-top: 300px;
+    margin-left: -400px;
+  }
+.imagem-cicero-2{
+  width: 350px;
+  margin-top: 250px;
+    margin-left: -400px;
+}
+.imagem-cicero-3{
+  width: 350px;
+  margin-top: 50px;
+}
+.text-Cicero {
+  font-size: 50px;
+  font-family: 'Century Gothic';
+}
+.text-cicero-1 {
+  width:365px;
+  position: relative;
+  font-size: 23px;
+  display: flex;
+  text-align: left;
+  margin-top: 80px;
+  margin-left: 15px;
+}
+.text-cicero-2 {
+  width:350px;
+  position: relative;
+  font-size: 23px;
+  display: flex;
+  margin-top: 80px;
+  margin-left: 15px;
+  justify-content: space-between;
+  text-align: justify;
+}
+.text-cicero-3 { 
+   width:350px;
+  position: relative;
+  font-size: 23px;
+  display: flex; 
+   margin: 15px;
+  justify-content: space-between;
+  text-align: justify;
+}
+
+
+
+
+.imagem-paulo {
+    width: 350px;
+    margin-top: 100px;
+  }
+.imagem-paulo-1{
+    position: relative;
+    margin-top: 300px;
+    margin-left: -400px;
+  }
+.imagem-paulo-2{
+  width: 350px;
+  margin-top: 250px;
+    margin-left: -400px;
+}
+.imagem-paulo-3{
+  width: 350px;
+  margin-top: 50px;
+}
+.text-Paulo {
+  font-size: 50px;
+  font-family: 'Century Gothic';
+}
+.text-paulo-1 {
+  width:365px;
+  position: relative;
+  font-size: 23px;
+  display: flex;
+  text-align: left;
+  margin-top: 80px;
+  margin-left: 15px;
+}
+.text-paulo-2 {
+  width:350px;
+  position: relative;
+  font-size: 23px;
+  display: flex;
+  margin-top: 80px;
+  margin-left: 15px;
+  justify-content: space-between;
+  text-align: justify;
+}
+.text-paulo-3 { 
+   width:350px;
+  position: relative;
+  font-size: 23px;
+  display: flex; 
+   margin: 15px;
+  justify-content: space-between;
+  text-align: justify;
+}
+
+
+
+
+.imagem-silvanar {
+    width: 350px;
+    margin-top: 100px;
+  }
+.imagem-silvanar-1{
+    position: relative;
+    margin-top: 300px;
+    margin-left: -400px;
+  }
+.imagem-silvanar-2{
+  width: 350px;
+  margin-top: 250px;
+    margin-left: -400px;
+}
+.imagem-silvanar-3{
+  width: 350px;
+  margin-top: 50px;
+}
+.text-Silvanar {
+  font-size: 50px;
+  font-family: 'Century Gothic';
+}
+.text-silvanar-1 {
+  width:365px;
+  position: relative;
+  font-size: 23px;
+  display: flex;
+  text-align: left;
+  margin-top: 80px;
+  margin-left: 15px;
+}
+.text-silvanar-2 {
+  width:350px;
+  position: relative;
+  font-size: 23px;
+  display: flex;
+  margin-top: 80px;
+  margin-left: 15px;
+  justify-content: space-between;
+  text-align: justify;
+}
+.text-silvanar-3 { 
+   width:350px;
+  position: relative;
+  font-size: 23px;
+  display: flex; 
+   margin: 15px;
+  justify-content: space-between;
+  text-align: justify;
+}
+
+
+
+
+.imagem-valdemar {
+    width: 350px;
+    margin-top: 100px;
+  }
+.imagem-valdemar-1{
+    position: relative;
+    margin-top: 300px;
+    margin-left: -400px;
+  }
+.imagem-valdemar-2{
+  width: 350px;
+  margin-top: 250px;
+    margin-left: -400px;
+}
+.imagem-valdemar-3{
+  width: 350px;
+  margin-top: 50px;
+}
+.text-Valdemar {
+  font-size: 50px;
+  font-family: 'Century Gothic';
+}
+.text-valdemar-1 {
+  width:365px;
+  position: relative;
+  font-size: 23px;
+  display: flex;
+  text-align: left;
+  margin-top: 80px;
+  margin-left: 15px;
+}
+.text-valdemar-2 {
+  width:350px;
+  position: relative;
+  font-size: 23px;
+  display: flex;
+  margin-top: 80px;
+  margin-left: 15px;
+  justify-content: space-between;
+  text-align: justify;
+}
+.text-valdemar-3 { 
    width:350px;
   position: relative;
   font-size: 23px;

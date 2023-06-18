@@ -6,12 +6,8 @@
       <div class="nav-list" @click="scrollToTop()">
 
           <router-link to="/" class="nav-item">Home</router-link>
-          <router-link to="/locavorismo" class="nav-item">Locavorismo</router-link>
-        
-        
-          <router-link to="/Produtores" class="nav-item"> Produtores </router-link>
-          <router-link to="/contact" class="nav-item">Rota turística</router-link>  
-        
+          <router-link to="/locavorismo" class="nav-item">Locavorismo</router-link>       
+          <router-link to="/Produtores" class="nav-item"> Produtores </router-link>        
       </div>
   </nav>
 </div>
